@@ -1,6 +1,5 @@
-Edusity - College Website
-Overview
-A responsive, single-page college website built with React and Tailwind CSS. Designed to enhance a college’s digital presence by offering intuitive access to course listings, faculty profiles, event updates, and announcements—all in a modern, dynamic interface.
+🎓 Edusity - College Website
+A responsive, single-page college website built using React and Tailwind CSS. Designed to enhance a college’s digital presence by providing intuitive access to course listings, faculty profiles, event updates, and announcements—all in a sleek, modern interface.
 
 Features
 •	- Single Page Application (SPA) with React Router
