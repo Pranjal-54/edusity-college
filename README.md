@@ -56,3 +56,43 @@ Clone the project from GitHub using the following command:
 git clone https://github.com/pranjal-54/edusity-college
 cd edusity-college
 ```
+
+### ✅ Step 2: Install Dependencies
+
+Install all required packages using:
+
+```bash
+npm install
+```
+
+### ✅ Step 3: Start the Development Server
+
+Start the app in development mode:
+
+```bash
+npm run dev
+```
+
+### ✅ Step 4: Build for Production
+
+Generate a production build using:
+
+```bash
+npm run build
+```
+
+### ✅ Step 5: Preview the Production Build (Optional)
+
+To preview the production build locally:
+
+```bash
+npm run preview
+```
+
+## 📦 Project Dependencies
+
+- React – JavaScript library for building UIs
+- React Router DOM – SPA routing
+- Tailwind CSS – Utility-first CSS framework
+- Vite – Fast build tool and dev server
+- Netlify – Hosting and continuous deployment
