@@ -43,38 +43,16 @@ edusity-college/
 ├── tailwind.config.js     # Tailwind configuration
 ├── vite.config.js         # Vite configuration
 └── package.json           # Project dependencies
+```
+## 🚀 Getting Started
 
+Set up and run the project locally by following the steps below:
 
-Getting Started
-•	- Clone the Repository: git clone https://github.com/pranjal-54/edusity-college
-•	- Install Dependencies: npm install
-•	- Start Development Server: npm run dev
-•	- Build for Production: npm run build
+### ✅ Step 1: Clone the Repository
 
-Functional Modules
-•	Navigation System: Smooth in-app routing via React Router, persistent navbar, custom 404 route
-•	Course Explorer: Search/filter options, responsive grid layout, API ready
-•	Event Updates: List display of events, future-ready for Firebase notifications
+Clone the project from GitHub using the following command:
 
-Non-Functional Goals
-•	- Loads in <3 seconds on broadband
-•	- Cross-platform browser compatibility
-•	- Modular and maintainable design
-•	- Optimized for future backend integration
-
-Design Constraints
-•	- React + Vite frontend stack
-•	- Tailwind CSS for UI consistency
-•	- SPA-compliant architecture
-•	- No backend/database in current release
-
-Planned Enhancements
-•	- Backend integration (MongoDB/Express)
-•	- Role-based access for admin updates
-•	- Multi-language support
-•	- Analytics integration (Google Analytics)
-•	- Event notifications with Firebase FCM
-
-
-License
-This project is open for educational and personal use under the MIT License.
+```bash
+git clone https://github.com/pranjal-54/edusity-college
+cd edusity-college
+```
