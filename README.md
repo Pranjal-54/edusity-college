@@ -1,4 +1,4 @@
-#🎓 Edusity - College Website
+# 🎓 Edusity - College Website
 A responsive, single-page college website built using React and Tailwind CSS. Designed to enhance a college’s digital presence by providing intuitive access to course listings, faculty profiles, event updates, and announcements—all in a sleek, modern interface.
 
 Features
