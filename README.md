@@ -33,7 +33,7 @@ edusity-college/
 └── package.json           # Project metadata and dependencies
 
 Getting Started
-•	- Clone the Repository: git clone https://github.com/aaayu-07/edusity-college
+•	- Clone the Repository: git clone https://github.com/pranjal-54/edusity-college
 •	- Install Dependencies: npm install
 •	- Start Development Server: npm run dev
 •	- Build for Production: npm run build
